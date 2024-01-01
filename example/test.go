@@ -1,7 +1,7 @@
 package main
 
 import "fmt"
-import "github.com/digautos/digTotpMiniGo"
+import "github.com/digautos-library/digTotpMiniGo"
 
 var secretid = "yourSecretIdGetFromGithub"
 
