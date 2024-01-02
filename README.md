@@ -1,2 +1,2 @@
 # digTotpMiniGo
-implement topt code maker in one file, nondepends.
+implement topt code maker in one file, independent.
